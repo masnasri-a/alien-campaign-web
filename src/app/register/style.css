@@ -1,0 +1,21 @@
+
+.left-bg{
+    height: 50vh;
+    width: 50vw;
+    object-fit: cover;
+}
+
+.header-btn{
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 5px 40px;
+    margin-left: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+.eyes{
+    color: darkgrey;
+}
